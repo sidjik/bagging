@@ -1,16 +1,16 @@
-## Priečinok obsahuje súbory, ktoré obsahujú implementáciu algoritmu, konkrétne súbory - > cn45.py, mlMetrics.py
+##### Priečinok obsahuje súbory, ktoré obsahujú implementáciu algoritmu, konkrétne súbory - > cn45.py, mlMetrics.py
 
-## Obsahuje súbor test.py, ktorý sa používal na zostavenie rôznych grafov pri písaní dokumentácie, ale je to chaos, keďže veľa grafov bolo vytvorených z jedného súboru.
+##### Obsahuje súbor test.py, ktorý sa používal na zostavenie rôznych grafov pri písaní dokumentácie, ale je to chaos, keďže veľa grafov bolo vytvorených z jedného súboru.
 
-## Súbor for_cvic.py je súbor na spustenie algoritmu, ktorý zobrazuje jeho metriky. Vyrobené špeciálne pre obhajobu v 13 týždňe.
+### Súbor for_cvic.py je súbor na spustenie algoritmu, ktorý zobrazuje jeho metriky. Vyrobené špeciálne pre obhajobu v 13 týždňe.
 
-## Pozor: Program pri volaní používa nasledujúce parametre:
-### -f, --table_name: názov súboru tabuľky
-### -y: názov stĺpca, ktorý označuje cieľový atribút
-### -l, --label: ako je označená pozitívna trieda v cieľovom atribúte
-### --treeCount: počet použitých stromov pre Bagging
-### -p, --portion_count: počet kúskov, do ktorých budú rozdelené tréningové dáta
-### -b, --boot_strap: počet kusov, ktoré sa použijú na stavbu jedného stromu
+#### Pozor: Program pri volaní používa nasledujúce parametre:
+##### -f, --table_name: názov súboru tabuľky
+##### -y: názov stĺpca, ktorý označuje cieľový atribút
+##### -l, --label: ako je označená pozitívna trieda v cieľovom atribúte
+##### --treeCount: počet použitých stromov pre Bagging
+##### -p, --portion_count: počet kúskov, do ktorých budú rozdelené tréningové dáta
+##### -b, --boot_strap: počet kusov, ktoré sa použijú na stavbu jedného stromu
 
 
 ## Príklady použitia s údajmi, ktoré sú v priečinku: 
