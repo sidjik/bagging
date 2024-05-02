@@ -17,6 +17,6 @@
  
 ### python for_cvic.py -f Employee.csv -y LeaveOrNot -l 1 -p 12 -b 5 --treeCount 10
 
-### python 21apr.py -f apple_quality.csv -y Quality -l good -p 21 -b 7 --treeCount 12
+### python for_cvic.py -f apple_quality.csv -y Quality -l good -p 21 -b 7 --treeCount 12
 
-### python 21apr.py -f startupdata.csv -y status -l closed -p 12 -b 5 --treeCount 7 
+### python for_cvic.py -f startupdata.csv -y status -l closed -p 12 -b 5 --treeCount 7 
