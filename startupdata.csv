@@ -1,0 +1,924 @@
+city,relationships,milestones,category_code,has_VC,has_angel,has_roundA,has_roundB,has_roundC,has_roundD,avg_participants,status
+San Diego,3,3,music,0,1,0,0,0,0,1,acquired
+Los Gatos,9,1,enterprise,1,0,0,1,1,1,4.75,acquired
+San Diego,5,2,web,0,0,1,0,0,0,4,acquired
+Cupertino,5,1,software,0,0,0,1,1,1,3.3333,acquired
+San Francisco,2,1,games_video,1,1,0,0,0,0,1,closed
+Mountain View,3,1,network_hosting,0,0,0,1,0,0,3,closed
+Mountain View,6,2,software,1,0,1,1,0,0,1.6667,acquired
+San Rafael,25,3,finance,0,0,1,1,0,1,3.5,acquired
+Williamstown,13,4,mobile,1,0,1,0,0,1,4,acquired
+Palo Alto,14,4,web,1,1,1,0,0,0,1,acquired
+Menlo Park,22,3,mobile,0,0,1,1,0,0,1,acquired
+Menlo Park,8,2,web,1,1,1,0,0,0,1.75,closed
+Louisville,0,0,web,1,0,0,0,0,0,1,closed
+Brooklyn,15,3,education,0,0,1,1,1,0,2.3333,acquired
+Denver,12,1,software,0,0,1,1,0,0,2.5,acquired
+Vienna,0,0,public_relations,1,0,0,0,0,0,1,closed
+Los Altos,8,1,security,1,0,1,1,1,1,3.5,closed
+Burlingame,7,3,games_video,0,0,1,1,1,1,3.5,acquired
+New York,10,3,web,0,1,1,0,0,0,5,acquired
+Palo Alto,13,3,enterprise,0,0,1,1,0,0,1,closed
+Austin,8,3,software,0,1,1,0,0,0,1.5,acquired
+Seattle,3,1,other,0,0,0,1,0,0,2,closed
+Palo Alto,1,1,web,0,0,1,0,0,0,2,closed
+San Francisco,4,3,mobile,0,1,1,0,0,0,2,closed
+Boulder,5,0,public_relations,0,1,1,0,0,0,4.5,closed
+Chicago,3,1,software,0,0,0,0,1,0,4,acquired
+Palo Alto,7,1,public_relations,0,0,0,0,1,0,4,acquired
+Berkeley,2,3,photo_video,0,0,0,1,0,0,2,acquired
+Austin,37,2,web,1,0,1,0,1,0,1.75,acquired
+Santa Ana,5,3,hardware,1,0,0,0,0,0,2,acquired
+Moffett Field,3,1,other,0,0,1,1,0,0,2,closed
+Seattle,6,1,public_relations,1,0,0,1,0,0,1.5,acquired
+Durham,9,0,software,0,0,1,1,0,0,2.5,closed
+San Francisco,3,2,mobile,1,0,0,0,0,0,5,acquired
+Pittsburgh,2,0,security,0,1,0,0,0,0,1,closed
+New York,1,1,software,0,0,0,1,0,0,1,closed
+San Francisco,8,3,software,0,0,1,1,0,0,2,closed
+San Jose,0,0,hardware,0,0,0,1,1,0,4.5,closed
+San Francisco,10,3,ecommerce,0,1,1,0,0,0,2.3333,acquired
+New York,18,5,advertising,1,1,1,1,1,0,2.75,acquired
+Atlanta,26,5,enterprise,0,0,1,1,1,0,3,acquired
+Manchester,9,2,mobile,0,1,0,0,0,0,1,acquired
+Menlo Park,7,2,travel,1,0,1,0,0,0,1,closed
+Seattle,10,3,enterprise,0,0,0,0,1,0,2,acquired
+Sunnyvale,25,4,advertising,0,0,0,0,1,0,3,acquired
+Sunnyvale,4,0,software,0,0,0,1,0,0,5,acquired
+New York,2,3,fashion,0,1,1,0,0,0,2,acquired
+Cambridge,9,2,software,0,0,1,0,0,0,1,acquired
+San Francisco,6,2,software,0,1,0,0,0,0,9.5,acquired
+San Mateo,11,2,software,0,0,0,0,0,1,2,acquired
+South San Francisco,5,1,web,0,0,1,0,0,0,1,acquired
+Boston,4,3,mobile,0,0,0,0,0,0,1,acquired
+Austin,12,5,web,0,0,1,0,0,0,3,acquired
+Waltham,9,1,public_relations,1,0,0,0,0,1,5,acquired
+San Francisco,37,4,enterprise,1,1,1,1,1,1,5,acquired
+Palo Alto,0,0,software,1,0,1,0,0,0,2,closed
+Palo Alto,13,2,analytics,1,0,1,1,0,0,2,acquired
+Aliso Viejo,18,1,consulting,0,0,0,0,1,0,2,acquired
+Sunnyvale,10,4,software,0,0,1,1,0,0,3.3333,acquired
+Kansas City,6,2,mobile,0,0,1,1,0,0,4.5,acquired
+Wilmington,10,1,biotech,0,0,0,1,0,0,2,closed
+San Francisco,6,1,cleantech,0,0,1,0,0,0,1,closed
+Kirkland,2,1,enterprise,1,0,0,0,1,0,3,acquired
+Tampa,0,0,software,1,0,0,0,0,0,3,closed
+Boston,5,2,software,0,0,1,0,0,0,3,acquired
+Alameda,4,2,cleantech,0,0,0,1,0,0,1,acquired
+Bothell,5,0,software,1,0,0,0,0,0,4,closed
+Boulder,4,4,advertising,1,0,0,0,0,0,2,acquired
+San Mateo,7,1,security,0,0,0,0,0,0,2,acquired
+San Francisco,9,2,advertising,0,1,1,1,0,0,3.3333,acquired
+San Francisco,15,3,web,0,0,1,0,0,0,3,acquired
+Sunnyvale,3,1,software,0,1,0,0,0,0,1,acquired
+Tampa,10,3,web,0,1,0,0,0,0,1.5,acquired
+San Francisco,17,3,advertising,0,0,1,1,1,1,1.6667,acquired
+Dallas,1,0,software,0,0,1,0,0,0,1,closed
+Fremont,2,1,software,1,0,0,1,0,0,4,closed
+Santa Clara,0,0,software,1,0,0,0,0,0,1,closed
+San Francisco,12,3,photo_video,0,1,1,1,0,0,4,acquired
+New York,10,5,games_video,0,0,1,1,1,0,2.6667,acquired
+Cambridge,4,2,mobile,1,1,0,0,0,0,1,closed
+San Francisco,11,3,mobile,0,1,1,1,0,0,2.25,acquired
+Princeton,2,0,cleantech,0,0,1,0,0,0,6,closed
+Loveland,5,3,cleantech,1,0,0,0,0,0,2.5,closed
+Mountain View,3,1,search,0,0,1,1,0,0,2.5,acquired
+New York,13,5,music,0,0,0,0,1,0,4,acquired
+Kearneysville,1,0,software,0,0,1,0,0,0,3,closed
+Los Angeles,7,2,web,0,0,1,0,0,0,1,acquired
+Canton,2,1,cleantech,1,0,0,1,0,0,3.6667,closed
+Mountain View,7,0,ecommerce,1,0,0,0,0,0,9,closed
+Bellevue,5,2,software,0,0,0,1,1,0,4.5,acquired
+Santa Clara,5,1,semiconductor,1,0,0,1,0,0,4,acquired
+Washington,1,0,advertising,1,0,0,1,1,0,3.5,closed
+San Francisco,7,2,web,0,1,0,0,0,0,5,acquired
+San Francisco,24,2,analytics,0,0,1,0,0,0,7,acquired
+New York,8,2,finance,0,0,1,1,1,1,4,acquired
+Mountain View,1,0,public_relations,0,0,0,1,0,0,3,closed
+Chicago,3,3,software,1,0,1,0,0,0,2,acquired
+Somerset,1,1,software,1,0,0,0,0,0,3,closed
+San Francisco,7,2,social,0,1,0,0,0,0,3,acquired
+Berkeley,3,0,cleantech,1,0,0,0,1,0,2.6667,closed
+Alpharetta,2,0,software,0,0,0,1,0,0,7,closed
+Seattle,1,0,software,0,0,0,0,0,1,4,acquired
+Bellevue,5,0,software,1,0,1,1,0,0,2.3333,acquired
+San Jose,16,2,security,1,0,0,1,1,1,3,acquired
+San Francisco,21,2,web,0,1,1,0,0,0,4,acquired
+Charlottesville,4,6,web,0,0,1,1,0,0,1,closed
+Dulles,9,3,software,1,0,0,0,1,0,2,acquired
+Chicago,2,2,web,0,1,0,0,0,0,1,closed
+San Francisco,5,3,web,0,1,0,0,0,0,7,acquired
+Bloomfield,0,2,mobile,0,0,1,1,0,0,2,closed
+Santa Monica,11,3,web,0,1,1,0,0,0,4,acquired
+Santa Clara,1,0,network_hosting,0,0,1,1,0,0,2.5,acquired
+Milpitas,0,0,semiconductor,0,0,0,0,1,0,1,closed
+Menlo Park,10,2,search,0,0,0,1,0,0,4,acquired
+San Diego,12,2,enterprise,1,1,0,0,0,0,4,closed
+San Francisco,10,3,mobile,0,1,1,0,0,0,3.5,acquired
+Burlingame,0,0,biotech,0,0,0,0,0,0,1,closed
+Raleigh,3,1,network_hosting,1,0,0,1,1,0,3.6667,acquired
+New York,12,1,ecommerce,0,0,1,0,0,0,1,acquired
+New York,4,2,web,0,1,0,0,0,0,6,acquired
+Somerville,1,1,web,0,1,0,0,0,0,1,closed
+Redwood City,6,2,ecommerce,0,0,1,1,0,0,2.5,acquired
+Austin,7,2,enterprise,0,1,1,0,0,0,1,closed
+New York,14,3,photo_video,1,0,1,0,0,0,6.3333,acquired
+Fremont,14,2,cleantech,1,0,1,1,1,0,2.25,acquired
+Waltham,2,0,biotech,0,0,1,1,1,0,4.6667,acquired
+Timonium,6,3,web,1,0,1,0,0,0,2.5,acquired
+Pittsburgh,3,2,advertising,1,1,0,0,0,0,1,closed
+Reston,2,1,mobile,1,0,0,1,0,0,3,closed
+Fremont,2,1,semiconductor,1,0,0,1,0,0,3.5,acquired
+New York,2,1,web,1,0,0,0,0,0,5,acquired
+Chicago,6,2,games_video,0,1,0,0,0,0,1,closed
+Santa Clara,9,2,software,0,0,1,1,1,0,2,acquired
+Palo Alto,9,1,network_hosting,1,0,0,0,0,0,7,acquired
+Cincinnati,4,1,web,0,1,0,0,0,0,3,closed
+Atlanta,1,0,mobile,1,0,0,1,0,0,1,acquired
+San Jose,1,0,hardware,0,0,0,0,0,0,1,closed
+Cambridge,4,2,biotech,0,0,1,1,0,0,3.5,acquired
+San Mateo,27,3,advertising,1,1,1,1,1,0,2.5,acquired
+San Francisco,12,2,network_hosting,0,0,1,0,0,0,3,closed
+Campbell,13,0,analytics,1,0,0,1,1,0,5.3333,acquired
+San Francisco,6,1,software,0,0,1,1,0,0,3,acquired
+New York,8,3,games_video,0,0,1,0,0,0,1,closed
+Santa Clara,4,1,mobile,0,0,1,0,0,0,1,acquired
+Sterling,9,2,web,0,0,1,1,0,0,2,acquired
+San Francisco,11,2,software,0,0,1,1,1,0,2.5,acquired
+San Francisco,6,2,games_video,0,0,1,0,0,0,3,acquired
+New York,3,1,software,1,0,0,1,0,0,4,acquired
+San Mateo,4,2,analytics,1,0,0,0,0,0,2,acquired
+Foster City,5,5,web,0,0,1,1,0,0,4,acquired
+Atlanta,2,0,semiconductor,1,0,1,0,0,0,1,closed
+Los Angeles,1,1,web,0,0,1,0,0,0,1,closed
+Oakland,1,2,web,0,1,0,0,0,0,1,closed
+Fremont,10,5,mobile,0,0,1,1,0,0,2.5,acquired
+Petaluma,12,3,mobile,1,0,0,1,1,1,5.2,closed
+San Francisco,2,3,web,0,1,0,0,0,0,10,acquired
+Chicago,17,2,software,0,0,1,0,0,0,1,acquired
+Boston,12,3,web,0,1,1,0,0,0,3,acquired
+Sunnyvale,5,1,web,0,0,1,0,0,0,1,closed
+Arlington,3,1,web,0,1,0,0,0,0,1,closed
+Seattle,5,1,network_hosting,0,0,0,1,0,0,3,acquired
+Centennial,0,2,finance,1,0,1,0,0,0,2,closed
+Chicago,5,1,biotech,1,0,0,1,0,0,4,closed
+San Mateo,5,0,enterprise,1,0,1,0,1,0,1,acquired
+San Jose,4,2,software,0,0,1,1,0,0,2.5,closed
+Austin,11,3,network_hosting,0,0,1,1,0,0,1.5,acquired
+San Francisco,6,3,advertising,1,0,0,0,0,0,3,acquired
+Memphis,2,1,web,0,1,0,0,0,0,1,closed
+New York,5,3,mobile,1,1,0,0,0,0,3,acquired
+Burlingame,6,2,games_video,1,0,0,0,0,0,1,acquired
+New York,30,5,web,1,0,1,1,1,1,3.5,acquired
+New York,8,3,social,1,1,0,0,0,0,1,closed
+Cambridge,5,3,mobile,0,1,1,0,0,0,6,acquired
+Plymouth,7,0,medical,1,0,0,1,1,0,3,acquired
+San Francisco,5,1,software,1,0,1,0,0,0,2,acquired
+Austin,14,2,enterprise,0,0,1,0,0,0,1,closed
+Seattle,6,1,enterprise,1,1,0,0,0,0,1,closed
+San Francisco,5,2,photo_video,1,0,1,0,0,0,1,closed
+Conshohocken,4,4,ecommerce,1,0,0,0,0,0,1,acquired
+Needham,13,4,software,0,0,1,1,1,0,2.5,closed
+Newport Beach,3,0,advertising,1,0,1,0,0,0,2,closed
+Austin,21,3,web,0,0,1,1,0,0,6,acquired
+Longmont,8,1,network_hosting,1,0,0,0,1,1,6.5,acquired
+Redwood City,13,0,software,0,0,1,1,0,0,2,acquired
+New York,2,0,mobile,0,1,0,0,0,0,3,closed
+San Francisco,0,0,mobile,1,0,0,0,0,0,1,closed
+Naperville,7,2,enterprise,0,1,0,0,0,0,1,acquired
+Pasadena,5,1,web,0,0,1,1,0,0,1,acquired
+San Jose,4,1,enterprise,1,0,1,1,0,0,1,acquired
+San Francisco,15,1,automotive,0,0,1,0,0,0,3,acquired
+Waltham,4,1,software,1,0,0,0,1,0,2.5,acquired
+San Francisco,5,2,games_video,0,0,1,1,0,0,3,acquired
+Milpitas,2,1,software,0,0,0,0,1,1,1,closed
+San Francisco,7,2,web,0,0,1,1,0,0,3.5,acquired
+San Francisco,8,4,web,0,1,0,0,0,0,4,acquired
+San Diego,15,4,games_video,0,0,1,1,1,1,5,acquired
+Boston,16,2,advertising,0,1,0,1,0,0,2,acquired
+Mountain View,2,0,hardware,0,0,0,0,1,1,6,closed
+Pittsburgh,3,0,medical,1,0,1,0,0,0,3,closed
+San Mateo,10,1,software,0,0,1,1,0,0,3.3333,acquired
+Santa Monica,5,3,mobile,0,0,0,0,0,0,9,acquired
+Warrenville,1,0,web,0,0,0,0,0,0,2,closed
+Raleigh,8,3,enterprise,0,0,1,1,1,1,2.75,closed
+Berwyn,4,5,enterprise,0,1,0,1,0,0,1.5,acquired
+Sunnyvale,4,3,advertising,0,0,0,1,1,0,2,closed
+San Francisco,12,6,web,0,1,1,1,0,0,2.6667,acquired
+San Francisco,3,4,web,0,1,1,0,0,0,1.5,closed
+Morgan Hill,3,0,public_relations,0,1,0,0,0,0,2,closed
+Mountain View,10,2,advertising,1,0,0,1,0,0,1.6667,acquired
+Austin,0,0,semiconductor,1,0,1,0,0,0,3,closed
+Marlborough,3,0,software,0,0,0,1,1,0,2.5,acquired
+San Francisco,4,3,advertising,0,1,1,0,0,0,2,acquired
+San Francisco,6,3,analytics,0,1,0,0,0,0,9,acquired
+Atlanta,0,0,software,1,1,0,0,0,0,2,closed
+New York,3,0,biotech,1,0,0,0,0,0,3,closed
+San Jose,5,0,semiconductor,1,0,0,0,1,0,5.3333,acquired
+Playa Vista,33,4,software,0,0,1,1,1,0,1.3333,closed
+San Francisco,14,3,web,0,0,1,1,0,0,3,acquired
+Cupertino,7,2,messaging,0,0,1,1,0,0,2.5,acquired
+New York,10,1,advertising,0,0,1,0,0,0,1,acquired
+Providence,6,3,advertising,0,1,0,0,0,0,1.5,acquired
+Washington,3,2,software,1,0,0,1,0,0,2,acquired
+San Francisco,6,1,ecommerce,0,0,0,0,0,0,1,closed
+San Francisco,4,1,cleantech,0,1,0,0,0,0,4,closed
+San Francisco,16,2,enterprise,0,0,1,0,0,0,5,closed
+Seattle,7,2,network_hosting,0,1,1,1,0,0,2,closed
+Mountain View,1,0,biotech,0,0,0,0,0,1,6,acquired
+New York,5,2,ecommerce,0,0,1,0,0,0,3,acquired
+Redwood City,25,2,advertising,1,0,1,1,1,1,2.3333,acquired
+Monterey Park,4,1,cleantech,0,0,0,1,1,1,4.5,acquired
+Plano,32,0,semiconductor,0,0,0,1,0,0,4,closed
+Mountain View,12,3,enterprise,0,0,1,0,0,0,3.5,acquired
+Austin,9,1,software,0,0,1,0,0,0,2,acquired
+Pasadena,7,1,software,1,0,1,0,0,0,1,acquired
+Fremont,9,4,mobile,0,0,1,0,0,0,1,acquired
+Bingham Farms,2,1,advertising,1,0,0,0,0,0,1,closed
+San Jose,15,2,advertising,0,0,1,0,0,0,2,acquired
+Chicago,2,1,web,1,0,0,0,0,0,1,closed
+New York,13,2,web,0,0,1,0,0,0,2,acquired
+Philadelphia,17,4,advertising,0,1,1,0,0,0,1.6667,acquired
+Mountain View,11,3,enterprise,1,0,0,0,0,0,3,closed
+Freedom,4,0,software,0,0,1,0,0,0,2,closed
+Boston,14,4,network_hosting,0,0,1,1,0,0,3.5,closed
+Cambridge,8,2,advertising,0,0,1,0,0,0,2,acquired
+San Francisco,16,3,network_hosting,0,1,1,1,1,1,2.25,acquired
+Austin,1,1,mobile,1,0,0,0,0,0,1,closed
+Seattle,5,3,security,0,1,1,0,0,0,1.5,acquired
+Bethesda,6,1,enterprise,0,0,1,1,1,1,2.5,acquired
+Portland,6,2,enterprise,1,1,0,0,0,0,3,acquired
+New York,0,2,web,0,1,0,0,0,0,1,acquired
+Allentown,0,0,cleantech,0,0,0,0,1,0,1,closed
+New York,12,5,mobile,1,1,1,1,1,1,3.1667,acquired
+North Billerica,3,0,semiconductor,1,0,0,0,0,0,2,acquired
+Los Angeles,3,2,games_video,0,1,0,0,0,0,1,closed
+Denver,6,3,mobile,0,0,1,0,0,0,1,acquired
+Duluth,5,0,biotech,1,0,1,0,0,0,3,closed
+Mountain View,8,2,biotech,0,0,1,1,1,0,4,acquired
+Providence,8,2,enterprise,0,1,1,0,0,0,4,acquired
+San Francisco,6,2,finance,0,0,0,1,1,0,1,closed
+San Francisco,11,2,games_video,0,1,1,1,0,0,3,acquired
+Waltham,7,0,software,1,0,0,0,1,0,2.5,acquired
+Boxborough,13,2,security,0,0,0,0,0,0,5.5,acquired
+Redwood City,2,1,public_relations,0,0,0,0,1,0,4,closed
+Salt Lake City,3,0,other,1,0,0,0,0,0,1,closed
+The Woodlands,0,0,cleantech,0,0,0,1,0,0,3,closed
+Palo Alto,3,1,software,0,0,1,0,0,0,2,acquired
+Austin,3,2,enterprise,0,0,1,0,0,0,1.5,acquired
+Mountain View,5,4,search,0,0,1,0,0,0,2,acquired
+San Francisco,8,1,advertising,0,0,0,1,1,0,2.5,acquired
+San Francisco,3,2,mobile,0,0,1,1,0,0,2,acquired
+Burlington,1,0,software,0,0,1,1,0,0,3,closed
+Seattle,10,2,mobile,1,0,1,0,0,0,1.6667,acquired
+San Francisco,9,3,web,0,1,0,0,0,0,1,acquired
+San Francisco,11,3,hardware,1,1,0,0,0,0,4,acquired
+Alameda,5,1,enterprise,1,0,0,1,0,1,3.6667,acquired
+Durham,8,2,analytics,0,1,1,0,0,0,9.5,closed
+New York,5,2,analytics,0,1,1,0,0,0,3,acquired
+Redwood City,1,0,biotech,1,0,0,0,0,1,5,acquired
+San Mateo,6,2,web,0,1,1,0,0,0,3,closed
+Needham,2,1,software,1,0,0,1,0,0,1.5,acquired
+Weston,4,2,social,0,1,0,0,0,0,1,closed
+Palo Alto,4,2,software,0,0,1,1,0,0,2,acquired
+San Francisco,10,2,advertising,0,0,1,1,0,0,5,acquired
+Santa Barbara,2,1,games_video,0,1,0,0,0,0,2,closed
+Palo Alto,3,0,public_relations,0,1,0,0,0,0,1,closed
+Los Angeles,8,3,mobile,1,0,1,1,0,0,2,closed
+Santa Monica,12,2,web,0,1,0,0,0,0,1,acquired
+Mountain View,2,3,web,0,0,0,1,1,0,2.5,acquired
+Santa Clara,6,1,hardware,1,0,0,1,0,0,4,closed
+San Francisco,27,5,messaging,0,0,1,1,1,0,3.6667,acquired
+Mountain View,2,0,hardware,1,0,0,1,0,0,3,closed
+Columbia,6,1,biotech,0,0,0,1,0,0,1,acquired
+Mountain View,2,2,games_video,0,0,1,0,0,0,3,closed
+SPOKANE,3,0,hardware,1,0,0,0,0,0,1,closed
+Burlington,1,1,web,1,0,1,0,0,0,2,closed
+Seattle,1,2,software,0,0,1,0,0,0,1,closed
+Cambridge,18,4,mobile,1,0,1,1,0,0,2,acquired
+Maynard,4,0,enterprise,0,0,0,1,0,0,5,acquired
+Frederick,0,0,public_relations,0,0,1,0,0,0,1,closed
+Fremont,1,0,cleantech,0,0,1,1,0,0,3.5,closed
+Austin,5,2,mobile,0,1,0,0,0,0,1,closed
+Sunnyvale,10,3,web,0,1,1,0,0,0,1,closed
+New York,23,4,games_video,0,1,1,1,1,1,2,acquired
+San Francisco,8,1,ecommerce,0,0,1,0,0,0,2,acquired
+Palo Alto,5,2,web,0,0,1,0,0,0,1,closed
+San Diego,2,2,mobile,0,0,1,1,0,0,3.5,acquired
+West Newfield,0,0,manufacturing,0,0,1,0,0,0,3,closed
+New York,12,2,hospitality,0,1,1,0,0,0,4,acquired
+San Francisco,57,8,news,0,0,1,1,1,1,4.6667,acquired
+Long Island City,9,4,music,1,0,0,0,0,0,8,acquired
+Redwood City,12,2,hardware,1,0,1,1,0,0,2.3333,acquired
+San Francisco,5,0,games_video,0,0,1,1,1,0,2,acquired
+San Francisco,20,0,search,1,0,1,0,0,0,4,acquired
+San Francisco,10,3,advertising,0,1,1,1,0,0,2,acquired
+Seattle,16,3,web,1,0,1,1,0,0,1.3333,closed
+Bellevue,4,0,software,0,0,0,0,1,0,3,acquired
+NY,1,1,web,0,1,0,0,0,0,2,closed
+Menlo Park,16,4,mobile,0,0,1,1,0,0,3.3333,acquired
+Englewood,5,1,security,0,0,0,0,0,0,5,acquired
+Solana Beach,5,4,games_video,1,0,1,1,0,0,4,acquired
+New York,9,4,web,0,0,1,1,0,0,2,acquired
+San Francisco,9,2,finance,0,0,1,1,0,0,2.5,acquired
+NW Atlanta,35,3,transportation,1,0,0,1,0,1,2,acquired
+San Francisco,16,2,sports,0,1,0,0,0,0,3.6667,acquired
+San Francisco,5,3,finance,1,0,1,0,0,0,5.5,acquired
+Bala Cynwyd,3,2,games_video,0,1,1,0,0,0,2,closed
+San Bruno,2,2,cleantech,0,0,1,0,0,0,2,closed
+San Francisco,5,4,mobile,0,0,1,0,0,0,1,closed
+San Francisco,13,3,music,1,1,1,1,0,0,2.4,acquired
+Evanston,15,1,software,0,0,1,1,0,0,2,closed
+Mountain View,10,1,enterprise,0,0,0,0,0,1,4.5,acquired
+Carlsbad,3,2,automotive,1,0,0,0,1,0,1.5,closed
+San Francisco,7,3,real_estate,1,0,0,0,0,0,1.6667,acquired
+San Diego,1,0,hardware,0,0,0,0,1,0,5,closed
+Cupertino,8,3,network_hosting,0,0,1,0,0,0,2,acquired
+West Hollywood,13,4,web,0,0,1,1,1,0,1.3333,acquired
+San Franciso,3,1,network_hosting,0,1,0,0,0,0,3,closed
+New York,9,5,web,0,1,1,1,0,0,5.8,acquired
+New York,24,3,enterprise,1,0,1,1,1,1,3.8,acquired
+San Francisco,10,2,advertising,0,0,1,1,0,0,4,acquired
+Mountain View,10,4,games_video,0,0,1,0,1,0,2.5,acquired
+Burlington,6,2,enterprise,0,0,0,1,0,0,2,acquired
+Austin,5,1,enterprise,1,0,1,0,0,0,2,acquired
+San Diego,2,0,biotech,1,0,1,1,0,0,4.3333,acquired
+Palo Alto,4,1,software,0,0,1,0,0,0,1,closed
+New York,7,2,web,0,1,1,0,0,0,2.5,closed
+San Francisco,9,2,games_video,1,0,0,0,0,1,4.5,closed
+New York,4,0,web,0,1,0,0,0,0,5,closed
+Santa Monica,19,2,network_hosting,0,1,1,1,1,1,1.75,acquired
+Richardson,3,0,semiconductor,0,0,0,0,1,0,7,acquired
+Zeeland,3,1,web,0,1,0,0,0,0,1,closed
+Herndon,3,2,mobile,0,1,1,1,0,0,1.5,acquired
+Paramus,1,0,biotech,1,0,0,0,0,0,2,acquired
+Pittsburgh,0,0,enterprise,1,0,0,0,0,0,1,closed
+Palo Alto,18,3,advertising,0,0,1,1,0,0,3.6667,acquired
+San Francisco,14,5,travel,0,1,0,1,1,0,1.6667,acquired
+New York,6,5,software,1,1,0,0,0,0,3.5,acquired
+Minneapolis,7,3,enterprise,0,0,1,0,0,0,2,acquired
+Boston,45,3,mobile,1,0,1,1,1,1,4.5,acquired
+San Jose,18,1,mobile,1,0,1,1,1,0,2.5,acquired
+Durham,26,1,software,1,0,0,0,0,1,3.5,acquired
+San Francisco,7,2,enterprise,0,0,0,0,1,0,3,closed
+New York,4,2,software,0,0,1,0,0,0,3,acquired
+San Francisco,5,4,mobile,0,1,0,0,0,0,1,acquired
+Kirkland,19,2,mobile,0,0,0,0,0,0,4.25,acquired
+Addison,6,2,security,0,0,0,0,1,0,5,acquired
+New York,4,1,fashion,0,0,1,1,0,0,2.5,acquired
+Mountain View,3,0,advertising,0,0,0,1,1,0,4.5,acquired
+Irvine,3,4,social,0,1,0,0,0,0,1,acquired
+Woburn,2,1,software,0,0,1,1,0,0,2.5,closed
+New York,22,5,enterprise,0,0,1,1,1,0,3,acquired
+Burlington,3,1,software,0,0,0,0,0,1,5,acquired
+Boston,4,2,web,0,1,0,0,0,0,1,acquired
+New York City,23,2,social,0,0,1,1,0,0,1,acquired
+Larkspur,7,5,mobile,1,0,0,1,1,0,4,acquired
+Los Angeles,9,3,ecommerce,0,1,0,0,0,0,1,closed
+Seattle,14,2,education,1,0,1,1,1,0,1.5,acquired
+San Bruno,21,3,hardware,0,0,0,1,0,1,4,acquired
+San Francisco,6,2,software,0,0,1,0,0,0,2,acquired
+Boston,23,6,mobile,0,0,1,1,1,0,2.5,acquired
+New York,8,3,advertising,1,0,1,0,0,0,1.5,acquired
+Redwood City,13,2,network_hosting,0,1,1,0,0,0,3.6667,acquired
+San Francisco,14,2,web,0,1,1,0,0,0,1.3333,acquired
+Irvine,3,0,semiconductor,1,0,0,0,0,0,4,acquired
+Santa Monica,17,4,fashion,1,0,1,1,1,0,2.3333,acquired
+New York,5,1,advertising,0,1,0,0,0,0,3.5,acquired
+Palo Alto,11,2,mobile,0,0,1,1,0,0,3,acquired
+Waltham,3,2,software,1,0,1,1,0,0,2.3333,closed
+Santa Clara,4,0,semiconductor,1,0,0,0,1,1,3.3333,closed
+Waltham,1,2,search,0,0,0,0,1,1,4.5,acquired
+Henderson,2,1,analytics,1,0,0,0,0,0,1,closed
+Boston,35,5,consulting,1,0,1,1,1,0,2.5,acquired
+McLean,4,3,software,0,0,1,1,0,0,1.5,acquired
+San Jose,3,1,biotech,0,0,0,0,1,0,1,acquired
+Santa Clara,7,1,software,1,0,1,1,1,0,2,acquired
+Palo Alto,21,3,web,0,1,1,0,0,0,12.5,acquired
+Santa Clara,8,0,software,1,0,0,1,1,1,5,acquired
+New York,15,4,web,0,0,1,1,0,0,5.5,acquired
+Mountain View,7,2,enterprise,0,0,1,0,0,0,1,acquired
+Burlingame,9,3,network_hosting,1,1,1,0,0,0,1.6667,acquired
+Lowell,10,3,web,0,0,1,1,0,0,2,acquired
+Santa Monica,5,3,mobile,0,0,1,1,0,0,1,closed
+Bellevue,3,1,software,1,0,0,0,0,0,5,closed
+Woodbury,2,0,public_relations,0,0,0,0,1,0,3,acquired
+Santa Clara,6,0,mobile,1,0,1,0,1,1,4,acquired
+San Francisco,7,2,software,0,1,1,0,0,0,8.5,acquired
+New York,2,1,enterprise,1,0,1,0,0,0,2,closed
+New York,31,3,news,1,0,1,1,1,0,2.5,acquired
+Mountain View,5,3,security,0,0,1,0,0,0,6,acquired
+Littleton,5,3,software,1,0,1,1,1,0,3,acquired
+Los Angeles,1,1,messaging,0,1,1,0,0,0,2.5,closed
+Glendale,3,2,ecommerce,1,0,0,1,1,0,3,closed
+Austin,5,1,analytics,0,0,1,0,0,0,2,acquired
+Chicago,16,4,web,0,0,1,1,0,0,4,acquired
+New York,6,2,web,0,1,0,0,0,0,2.5,acquired
+San Francisco,4,4,games_video,0,1,1,0,0,0,2,acquired
+New York,8,2,mobile,0,1,1,0,0,0,6,acquired
+New York,2,1,games_video,0,0,1,0,0,0,2,closed
+San Francisco,6,1,security,1,0,0,0,1,1,3.8,acquired
+Billerica,3,2,other,0,0,0,1,0,1,4.3333,acquired
+San Diego,5,0,mobile,1,1,0,0,0,0,1,closed
+New York,3,3,software,0,1,1,0,0,0,3,acquired
+Seattle,3,3,web,1,0,0,0,0,0,1,closed
+Los Gatos,3,2,web,0,0,0,0,0,0,1,closed
+Broomfield,3,1,software,1,0,0,0,0,0,1,acquired
+Foster City,0,0,web,0,0,1,0,0,0,3,closed
+Mountain View,3,1,mobile,1,1,0,0,0,0,2,closed
+Portland,5,2,mobile,0,0,1,0,0,0,1,acquired
+New York,21,0,advertising,0,0,0,1,0,0,1,acquired
+Boston,4,3,search,0,0,1,0,0,0,2,acquired
+Austin,11,2,web,0,0,1,1,0,0,1,acquired
+Beverly Hills,0,0,web,0,1,0,0,0,0,1,closed
+Hartford,9,2,network_hosting,0,0,1,1,0,0,2,closed
+Greenwood Village,2,1,software,1,0,0,0,0,0,1,acquired
+Seattle,3,1,games_video,0,1,0,0,0,0,1,closed
+College Park,3,0,biotech,1,0,0,0,0,0,1,closed
+New York,4,2,messaging,0,1,0,0,0,0,6,acquired
+Los Angeles,15,2,fashion,0,0,0,1,1,0,1.5,acquired
+Addison,0,0,software,1,0,0,1,1,0,1,closed
+Napa,6,3,software,1,0,0,1,0,0,2.5,closed
+San Francisco,3,2,web,0,1,0,0,0,0,1,acquired
+New York,4,0,network_hosting,1,0,0,1,0,0,2,acquired
+San Francisco,4,2,network_hosting,0,0,1,0,0,0,4,acquired
+Mountain View,29,4,web,0,0,1,1,1,1,2.8,acquired
+Itasca,6,1,security,1,0,1,0,0,0,1,acquired
+Cambridge,1,1,ecommerce,1,0,0,0,0,0,2,acquired
+Lexington,13,1,software,0,0,0,1,1,1,3.25,acquired
+Santa Clara,10,1,semiconductor,0,0,0,0,0,1,3,acquired
+Waltham,7,0,advertising,0,0,1,1,1,0,2.6667,acquired
+Irvine,5,2,enterprise,1,0,1,1,0,0,2.6667,acquired
+Palo Alto,0,0,software,1,0,0,0,0,0,2,closed
+Tampa,1,2,software,0,0,0,1,1,1,4.5,acquired
+New York,6,0,games_video,0,0,0,0,1,0,4,acquired
+San Francisco,5,2,mobile,1,1,0,0,0,0,3.5,closed
+Foster City,6,1,software,0,0,0,1,0,0,3,acquired
+San Francisco,5,4,web,0,0,0,1,0,0,2,acquired
+New York,3,0,advertising,0,1,0,0,0,0,1,closed
+New York,13,3,music,0,0,1,0,0,0,1,acquired
+Seattle,19,4,web,1,0,0,0,0,0,1,acquired
+Santa Monica,22,4,web,0,0,1,1,0,0,3,acquired
+San Francisco,3,0,web,0,1,0,0,0,0,1,closed
+Redwood City,10,3,mobile,1,0,0,1,1,0,3.6667,acquired
+San Mateo,10,1,web,0,0,1,1,0,0,1,closed
+San Francisco,9,1,software,0,0,0,0,1,1,4.5,acquired
+Austin,10,1,hardware,0,0,0,1,1,0,2.6667,closed
+Calabasas,3,1,games_video,1,0,0,0,0,1,5.6667,acquired
+San Francisco,7,1,messaging,0,0,1,1,0,0,2,acquired
+New York,8,3,mobile,0,1,0,0,0,0,2,closed
+Cincinnati,2,1,fashion,0,1,0,0,0,0,1,closed
+North Reading,13,3,hardware,0,0,1,0,1,0,2,acquired
+Mountain View,6,2,web,0,0,1,0,0,0,2,acquired
+Cincinnati,2,2,advertising,0,0,1,0,0,0,4,closed
+Los Angeles,4,2,social,0,0,0,0,0,0,7,closed
+Burlingame,9,4,social,1,1,0,0,0,0,1,acquired
+San Francisco,16,2,enterprise,0,0,1,1,0,0,1.5,acquired
+Boston,7,2,web,0,1,1,0,0,0,2,acquired
+Richardson,1,0,public_relations,0,0,0,0,1,0,4,acquired
+Lindon,4,2,web,0,0,1,0,0,0,2,acquired
+Los Angeles,7,1,software,0,0,1,1,0,0,2.5,closed
+Albuquerque,4,0,cleantech,0,0,0,0,0,0,10,closed
+Red Bank,5,1,software,0,1,0,0,0,0,2,closed
+Palo Alto,10,1,software,0,0,0,1,1,0,2.5,acquired
+Boston,5,1,software,0,1,0,0,0,0,5,acquired
+Palo Alto,5,2,security,0,0,1,1,0,0,2,acquired
+Bethlehem,1,0,semiconductor,1,0,1,1,0,0,2,acquired
+Sunnyvale,4,1,mobile,0,0,1,1,0,0,1,closed
+Santa Clara,11,3,hardware,0,0,1,1,0,0,3.5,acquired
+Saint Louis,1,0,network_hosting,0,1,0,0,0,0,1,closed
+Sunnyvale,27,4,web,0,0,1,1,1,1,2.5,acquired
+Palo Alto,1,1,web,0,0,0,0,0,0,1,closed
+San Bruno,63,6,games_video,0,0,1,1,0,0,1,acquired
+New York City,15,2,mobile,0,0,1,0,0,0,3,closed
+New York,2,2,ecommerce,0,1,0,0,0,0,1,closed
+Austin,9,2,search,0,0,1,0,0,0,2,closed
+Brooklyn,8,2,web,0,1,1,0,0,0,4,closed
+Philadelphia,15,0,biotech,0,1,1,0,1,1,4.75,acquired
+Los Angeles,2,1,messaging,0,1,0,0,0,0,1,closed
+Indianapolis,29,3,software,1,0,0,0,0,0,2,acquired
+Burlington,3,2,medical,1,0,0,1,0,0,1,acquired
+Palo Alto,4,2,games_video,0,1,0,0,0,0,1.6667,acquired
+San Mateo,5,1,enterprise,1,0,1,0,0,0,1,acquired
+Menlo Park,2,1,web,1,0,0,0,0,0,2,closed
+New Hope,16,4,web,0,0,1,1,0,0,2.5,acquired
+Englewood,0,1,web,1,0,0,0,0,0,4,acquired
+Los Angeles,3,0,software,0,0,1,0,0,0,1,closed
+San Mateo,7,2,network_hosting,0,0,1,0,0,0,1,closed
+New York,5,3,advertising,0,1,1,0,0,0,1,acquired
+Petaluma,7,2,semiconductor,1,0,1,1,1,1,9.3333,acquired
+Redwood City,15,3,mobile,1,0,0,1,1,0,2.25,acquired
+North Hollywood,30,5,web,1,0,1,0,0,0,7,acquired
+Waco,1,0,software,0,1,0,0,0,0,1,closed
+Santa Clara,10,1,public_relations,0,0,0,0,0,0,9,closed
+Boulder,6,2,network_hosting,0,1,0,0,0,0,1,acquired
+New York,16,4,web,0,0,1,1,1,0,3.5,acquired
+Carpinteria,6,1,advertising,0,0,1,0,0,0,5,acquired
+Menlo Park,13,4,search,0,0,1,1,0,0,2.5,closed
+Mountain View,2,2,web,1,0,0,0,1,0,5,acquired
+Menlo Park,17,4,web,0,1,1,1,1,1,2,acquired
+Mountain View,42,6,advertising,0,0,1,1,1,0,2.5,acquired
+Chicago,5,2,ecommerce,0,1,0,0,0,0,2.6667,acquired
+New York City,9,3,travel,0,1,0,0,0,0,5,acquired
+Mountain View,6,4,web,1,0,1,1,0,0,1.6667,acquired
+West Chester,1,0,biotech,1,0,0,0,0,0,1,closed
+San Francisco,4,1,software,1,1,0,1,0,0,1.6667,acquired
+Nashville,3,1,web,0,1,0,0,0,0,1.5,acquired
+Sunnyvale,5,0,software,0,0,1,1,0,0,2.5,acquired
+New York,5,2,social,0,0,0,0,0,0,2,acquired
+Bedford,2,1,hardware,0,0,0,0,1,0,4,closed
+Belmont,10,4,games_video,0,0,1,1,1,0,4.3333,acquired
+Nashville,2,1,photo_video,0,0,1,0,0,0,1,acquired
+San Francisco,5,3,web,0,0,1,0,0,0,1,acquired
+Puyallup,1,1,advertising,0,1,0,0,0,0,2,closed
+San Mateo,28,1,software,0,1,0,0,0,1,1,acquired
+San Francisco,9,1,software,1,0,0,1,0,0,5,acquired
+Boxborough,2,0,software,0,0,0,0,0,0,1,closed
+Sunnyvale,0,0,hardware,0,0,0,1,0,0,3,closed
+Seattle,4,0,web,0,0,0,0,0,0,3,closed
+Santa Monica,0,1,games_video,0,0,1,0,0,0,1.5,acquired
+San Mateo,13,3,software,0,0,1,1,1,1,4,acquired
+San Mateo,21,2,software,0,0,1,1,1,0,3,acquired
+Santa Clara,12,4,games_video,1,0,1,1,1,0,4.25,acquired
+Chevy Chase,15,5,software,0,0,0,1,1,1,4.3333,acquired
+San Mateo,1,1,games_video,0,0,1,0,0,0,1,closed
+Palo Alto,19,3,enterprise,0,0,0,0,1,0,9,acquired
+Bellevue,1,1,games_video,1,0,0,0,0,0,5,closed
+Sunnyvale,5,1,network_hosting,0,0,1,1,1,0,2.6667,acquired
+Calabasas,2,1,semiconductor,1,0,0,0,1,1,5.6667,acquired
+San Francisco,4,3,analytics,0,1,0,0,0,0,4.5,acquired
+Louisville,14,2,software,1,0,1,0,0,0,2.5,acquired
+Woburn,2,3,mobile,0,0,0,0,1,0,4,acquired
+Menlo Park,1,0,biotech,0,0,0,1,0,0,3,closed
+Menlo Park,5,1,software,1,0,0,0,0,1,4,acquired
+Campbell,3,3,web,0,1,0,0,0,0,7,acquired
+New York,5,2,analytics,0,0,1,0,0,0,1,acquired
+Palo Alto,11,2,other,0,0,1,1,0,0,1.5,closed
+Palo Alto,37,3,games_video,0,0,1,0,0,0,4,acquired
+Boxborough,9,2,enterprise,0,0,1,1,0,0,1,acquired
+San Francisco,11,4,analytics,0,0,1,1,0,0,1.5,acquired
+New York,6,2,advertising,0,1,0,0,0,0,1,closed
+Atlanta,9,2,software,0,0,0,1,1,0,3,acquired
+San Francisco,19,4,advertising,0,0,1,0,0,0,2,acquired
+San Francisco,4,0,advertising,1,0,1,1,0,0,2,closed
+Cambridge,13,3,enterprise,0,1,1,0,0,0,5.75,acquired
+San Mateo,7,4,web,0,0,1,0,0,0,1,closed
+Mountain View,2,2,software,1,0,0,0,1,0,3,closed
+New York,8,1,web,0,1,0,0,0,0,8,acquired
+Lexington,3,1,software,0,1,0,0,0,0,1,acquired
+Menlo Park,12,3,enterprise,0,0,1,0,0,0,2,acquired
+Chantilly,2,1,software,0,0,1,0,0,0,2,closed
+Palo Alto,2,1,mobile,1,1,0,0,0,0,1,closed
+Waltham,7,2,software,0,0,1,1,1,0,2.6667,acquired
+Santa Clara,0,0,software,1,0,0,0,0,0,2,closed
+Santa Clara,5,1,semiconductor,1,0,0,1,0,1,7.6667,acquired
+McLean,11,2,mobile,1,0,0,1,1,0,3.6667,acquired
+Lake Oswego,6,1,software,0,0,0,0,0,1,4,acquired
+New York,8,2,games_video,1,0,0,1,0,0,2,acquired
+Allentown,0,0,public_relations,0,0,0,0,1,0,4,closed
+Tewksbury,1,1,software,0,0,1,1,0,0,2.5,acquired
+Redwood City,4,3,advertising,0,0,1,0,0,0,2,closed
+Austin,1,1,security,1,0,0,0,1,0,2,acquired
+Santa Clara,16,1,biotech,0,0,0,0,1,0,3.5,acquired
+Dedham,2,1,enterprise,1,0,0,1,0,0,4.6667,acquired
+Cupertino,6,1,public_relations,0,0,0,0,0,1,3,acquired
+Sunnyvale,8,2,enterprise,0,0,1,1,0,0,2.5,acquired
+Boston,5,2,web,1,0,0,1,1,0,1,closed
+Lawrenceville,1,1,ecommerce,0,1,0,0,0,0,1,closed
+Jersey City,27,3,ecommerce,0,0,1,1,1,1,3.4,acquired
+NYC,4,0,web,0,1,0,0,0,0,2,closed
+Annapolis,3,1,network_hosting,0,0,1,1,0,0,1.5,acquired
+Mountain View,7,3,search,0,0,1,1,1,1,3,closed
+San Francisco,38,3,enterprise,0,0,1,1,1,1,5.2,acquired
+Mountain View,6,2,web,1,0,1,0,0,0,1.5,acquired
+Austin,4,1,software,0,0,1,1,1,0,3,acquired
+San Jose,2,1,hardware,1,0,1,1,1,0,3.2,closed
+Mountain View,14,3,mobile,0,0,1,1,0,0,2,acquired
+Santa Clara,19,1,enterprise,0,0,1,1,1,0,3.3333,acquired
+Washington,4,2,enterprise,1,0,0,0,0,0,2,acquired
+New York,5,3,social,0,1,0,0,0,0,1.5,closed
+Campbell,4,1,biotech,0,0,1,1,1,0,5,acquired
+Burlington,10,2,software,1,0,0,1,0,0,2.6667,acquired
+Las Vegas,3,2,news,0,1,0,0,0,0,1.5,acquired
+Santa Clara,2,0,software,0,0,0,0,1,0,4,closed
+New York,25,0,advertising,1,0,1,0,0,0,3.5,acquired
+San Francisco,2,1,web,0,1,0,0,0,0,1,closed
+Richardson,3,1,public_relations,1,0,0,0,0,0,3.5,acquired
+Sunnyvale,9,1,software,1,0,1,1,1,0,2.6667,acquired
+Andover,11,2,software,1,0,1,0,1,0,2.3333,closed
+Los Altos,4,3,web,0,0,1,0,0,0,1,acquired
+Minnetonka,3,1,web,0,1,1,0,0,0,1,acquired
+Mountain View,8,3,mobile,0,1,1,0,0,0,3.5,closed
+Mountain View,13,3,web,0,0,1,1,0,0,4.5,acquired
+San Diego,0,0,network_hosting,1,0,0,0,0,0,2,closed
+Mountain View,7,1,software,1,0,0,1,0,0,1.5,acquired
+New York,7,3,photo_video,1,1,0,0,0,0,3,closed
+San Francisco,17,2,web,1,1,0,0,0,0,1,acquired
+Cupertino,12,2,enterprise,0,0,0,1,0,0,3,acquired
+Redwood City,19,4,enterprise,0,1,1,1,0,0,2.25,acquired
+Los Angeles,8,1,search,0,0,1,0,0,0,1,closed
+Vancouver,1,1,web,0,1,0,0,0,0,1,closed
+South San Francisco,4,1,biotech,0,0,0,0,1,0,1,acquired
+Waltham,3,1,software,1,0,0,1,1,0,1.6667,closed
+Lexington,9,2,public_relations,0,0,0,0,0,1,4,acquired
+Pleasanton,3,1,biotech,0,0,0,1,0,0,1,acquired
+Santa Clara,5,1,software,0,0,0,0,0,1,6,acquired
+New York,7,3,advertising,0,0,1,0,0,0,1,acquired
+El Segundo,4,0,public_relations,0,0,0,0,0,1,4,closed
+Farmington,2,0,messaging,0,0,1,0,0,0,2,closed
+Sunnyvale,3,1,hardware,0,0,1,1,0,0,3,acquired
+New York,7,3,games_video,0,0,0,1,0,0,4,acquired
+New York,8,3,games_video,0,0,1,1,0,0,4.5,closed
+San Jose,1,1,messaging,0,1,0,0,0,0,1,closed
+New York,5,3,fashion,0,0,1,0,0,0,7,closed
+Mountain View,16,2,security,0,0,1,1,1,0,2,closed
+San Diego,22,5,enterprise,1,0,1,1,1,0,4.2,closed
+Seattle,3,2,ecommerce,0,0,1,0,0,0,1,closed
+San Francisco,6,0,software,0,0,0,0,0,0,1,closed
+Austin,2,1,semiconductor,0,0,1,1,1,0,4,acquired
+Englewood,4,1,semiconductor,1,0,0,0,0,0,5,closed
+Los Angeles,12,2,games_video,0,0,1,1,0,0,3.5,acquired
+Menlo Park,0,0,semiconductor,1,0,1,0,0,0,2,closed
+San Bruno,6,2,software,0,0,1,0,0,0,7,acquired
+Tampa,5,0,software,0,1,0,0,0,0,1,closed
+Marlborough,13,2,other,0,0,0,1,1,0,2,acquired
+Nashua,5,2,software,1,1,1,1,0,0,2,closed
+Mountain View,21,3,mobile,0,1,1,1,1,0,1.6667,acquired
+Cupertino,4,1,public_relations,0,0,0,1,0,0,2,acquired
+San Francisco,18,3,enterprise,0,1,1,1,0,0,1.5,acquired
+Boulder,10,3,enterprise,1,1,1,1,0,0,2.5,acquired
+Seattle,3,2,web,0,0,0,0,0,0,11,acquired
+San Francisco,24,4,web,0,0,1,1,1,0,5.6667,acquired
+Saint Paul,3,0,medical,1,0,0,1,1,0,2.3333,closed
+Philadelphia,2,1,software,1,0,0,0,0,0,1,closed
+Pleasanton,22,1,network_hosting,0,0,0,0,0,0,4,acquired
+San Diego,9,1,web,0,0,1,1,1,0,3,acquired
+Burlington,4,2,software,1,0,1,1,0,0,2.6667,acquired
+Sunnnyvale,4,1,biotech,0,0,0,0,1,0,9,acquired
+San Mateo,5,1,security,0,0,0,1,0,0,2,acquired
+San Francisco,6,3,advertising,0,0,1,0,0,0,2,acquired
+Champaign,1,1,social,0,1,0,0,0,0,3,closed
+Santa Clara,3,1,other,0,0,1,1,1,0,2.25,closed
+Golden Valley,2,1,enterprise,1,0,0,0,0,0,1,closed
+Pittsboro,4,1,biotech,1,0,0,1,1,1,6.75,closed
+Cambridge,7,1,biotech,1,0,0,0,0,0,7,acquired
+Seattle,0,0,network_hosting,0,0,1,0,0,0,2,closed
+Cambridge,12,2,mobile,0,0,0,0,1,0,7,acquired
+Burlington,5,2,software,0,0,1,1,0,0,2,acquired
+Menlo Park,2,1,search,0,0,0,0,0,0,1,closed
+San Francisco,30,3,web,0,0,1,0,0,0,1,acquired
+New York,7,2,web,0,1,1,0,0,0,2,acquired
+Brisbane,9,1,biotech,1,0,0,1,0,0,3,acquired
+New York,5,3,education,0,1,1,0,0,0,4.6667,acquired
+Seattle,18,3,mobile,1,0,1,1,0,0,3.3333,acquired
+San Francisco,12,3,enterprise,0,0,1,1,0,0,4,acquired
+Menlo Park,2,0,biotech,1,0,0,1,0,0,4.5,closed
+Westford,9,1,software,0,0,1,1,0,0,2.5,acquired
+Raleigh,1,1,software,1,0,0,0,0,0,2,closed
+Menlo Park,1,1,games_video,0,0,1,0,0,0,1,closed
+Waltham,17,4,advertising,0,0,1,1,1,0,1.6667,acquired
+Palo Alto,4,2,web,1,0,0,1,0,0,2,acquired
+San Francisco,3,0,public_relations,0,1,0,0,0,0,2,closed
+Billerica,10,1,semiconductor,0,0,0,0,1,1,1.5,acquired
+NY,11,2,games_video,0,1,1,1,0,0,1.5,acquired
+Chicago,1,2,mobile,1,0,1,0,0,0,3,closed
+Woburn,6,5,web,0,0,1,1,0,0,1,acquired
+Campbell,2,1,semiconductor,0,0,0,0,1,0,1,acquired
+New York,5,3,fashion,0,0,0,0,0,0,1,acquired
+San Francisco,6,2,hardware,1,0,0,0,1,0,2,closed
+Brooklyn,6,2,hardware,1,0,0,0,0,0,6,acquired
+New York,9,2,advertising,1,0,1,0,0,0,3,acquired
+Brooklyn,7,2,travel,0,1,1,0,0,0,6,acquired
+Chicago,6,2,ecommerce,1,1,0,0,0,0,1,closed
+Austin,5,4,games_video,1,0,1,0,0,0,1,closed
+San Jose,6,1,software,0,0,0,0,0,1,3,acquired
+Emeryville,18,3,enterprise,1,0,1,1,0,0,2,acquired
+San Jose,6,2,cleantech,1,0,1,1,1,0,2.7143,closed
+Mountain View,8,3,enterprise,0,0,1,1,0,0,2,acquired
+San Francisco,4,2,social,0,1,1,0,0,0,2.5,acquired
+Austin,6,1,software,0,0,1,0,0,0,4,closed
+New York,8,2,software,0,1,1,0,0,0,4,acquired
+Mountain View,19,4,mobile,0,0,1,1,1,1,1.3333,acquired
+San Jose,5,0,medical,0,0,0,0,1,0,6,acquired
+Richardson,10,3,software,0,0,1,1,1,0,4,closed
+Washington,1,0,social,0,1,0,0,0,0,1,closed
+Waltham,3,1,advertising,0,1,0,0,0,0,1,closed
+Fremont,2,0,medical,0,0,0,1,0,0,3,closed
+Campbell,0,0,advertising,0,0,0,0,0,0,1,closed
+Burlington,2,1,software,1,0,0,1,0,0,3.5,closed
+San Francisco,2,1,advertising,0,0,1,1,1,0,4,closed
+Atlanta,1,1,cleantech,1,0,0,0,0,0,1.3333,acquired
+San Francisco,8,3,web,0,0,1,1,0,0,2.3333,acquired
+Hollywood,5,2,real_estate,0,1,0,0,0,0,1,closed
+Los Angeles,4,2,web,0,0,0,0,0,1,3,closed
+Viena,5,3,mobile,1,1,0,0,0,0,1,closed
+Austin,1,3,cleantech,1,0,0,0,0,0,5,closed
+Campbell,6,1,network_hosting,1,0,0,0,0,1,4.6667,acquired
+Hillsborough,2,1,analytics,0,1,0,0,0,0,1,closed
+Potomac Falls,5,3,search,0,1,0,0,0,0,2,acquired
+Atlanta,10,2,enterprise,1,0,0,0,0,0,5,acquired
+San Mateo,4,3,enterprise,1,1,0,0,0,0,1,closed
+Santa Barbara,3,1,hardware,0,0,1,0,0,0,2,closed
+Austin,13,3,health,1,0,1,1,1,0,1.75,acquired
+San Francisco,2,0,web,0,0,1,0,0,0,2,closed
+Tempe,13,2,advertising,0,0,1,0,0,0,3,acquired
+Cambridge,15,2,health,1,0,1,1,1,0,1.75,acquired
+Tualatin,3,0,semiconductor,0,0,1,0,0,0,1,closed
+Cambridge,4,1,biotech,0,0,1,1,0,0,2,acquired
+Chicago,10,2,software,0,0,1,1,0,0,3.5,acquired
+Milpitas,25,3,enterprise,1,0,1,1,1,1,3,acquired
+Redwood City,4,0,biotech,0,0,1,0,1,1,3.6667,acquired
+Mountain View,5,3,enterprise,0,1,1,0,0,0,4,acquired
+Framingham,3,1,security,0,0,0,0,0,1,4,acquired
+Rye Brook,2,0,ecommerce,1,0,0,0,0,0,3,closed
+Redmond,13,0,photo_video,0,0,1,1,0,0,3,acquired
+San Mateo,4,0,software,0,1,1,0,0,0,2,acquired
+Brooklyn,12,3,social,0,0,1,0,0,0,16,acquired
+Seattle,1,2,ecommerce,1,0,1,0,0,0,1,closed
+Yardley,3,0,games_video,1,0,0,0,0,0,1,closed
+Mountain View,4,2,news,0,1,0,0,0,0,1,acquired
+Carlsbad,3,0,ecommerce,0,1,1,0,0,0,1,closed
+Santa Monica,9,2,enterprise,1,0,0,0,0,0,1,acquired
+San Francisco,12,2,web,0,1,1,0,0,0,11.5,acquired
+San Francisco,6,2,ecommerce,0,0,1,0,0,0,8,closed
+San Rafael,8,1,cleantech,0,0,1,0,0,0,1,acquired
+Hollywood,13,0,real_estate,0,1,0,0,0,0,1,closed
+Berkeley,12,3,music,1,1,1,0,0,0,3,acquired
+Pasadena,12,3,web,1,0,1,0,0,0,1,closed
+New York,15,3,travel,0,0,1,1,1,0,2.25,acquired
+San Jose,15,3,security,0,0,0,0,0,1,5,acquired
+New York,2,1,fashion,0,0,0,0,0,0,6,closed
+San Diego,3,0,semiconductor,1,0,0,0,1,1,2,closed
+Portland,3,2,network_hosting,0,0,1,1,0,0,1,acquired
+San Francisco,3,3,web,0,1,1,0,0,0,1.5,acquired
+Cambridge,8,6,ecommerce,1,1,1,0,0,0,1.6667,acquired
+Sunnyvale,6,2,software,0,0,1,0,0,0,2,acquired
+Kenmore,5,1,web,0,1,0,0,0,0,1,closed
+Laguna Niguel,4,1,semiconductor,1,0,0,0,1,0,2.5,acquired
+Mountain View,6,3,software,0,0,0,1,1,0,2.5,acquired
+Mountain View,2,0,software,0,0,0,1,0,0,2,closed
+La Jolla,3,3,web,0,1,0,0,0,0,3,closed
+Redwood City,3,3,enterprise,0,1,1,1,0,0,1.5,acquired
+Austin,8,3,enterprise,0,1,1,0,0,0,3,acquired
+San Francisco,27,4,mobile,1,0,1,0,0,0,2,closed
+San Francisco,30,3,advertising,0,1,1,0,0,0,8.6667,acquired
+San Francisco,8,2,web,0,1,1,0,0,0,5,acquired
+Addison,4,2,enterprise,1,0,0,1,1,0,5.3333,acquired
+Mountain View,4,1,travel,0,1,0,0,0,0,4,acquired
+New York,16,1,games_video,1,0,0,1,0,0,1,acquired
+Pleasanton,4,0,games_video,0,0,0,0,1,0,5,acquired
+San Diego,15,1,biotech,0,0,1,1,1,1,2.5,acquired
+New York,8,2,news,0,0,0,0,0,0,5,acquired
+New York,3,2,web,0,1,0,0,0,0,1,acquired
+Cleveland,4,0,other,1,0,0,0,0,0,3,closed
+Indianapolis,10,3,public_relations,1,0,0,1,0,0,3,closed
+Cambridge,4,1,web,1,0,0,0,0,0,1,acquired
+Emeryville,11,2,analytics,0,0,1,0,0,0,2,acquired
+Mountain View,2,0,semiconductor,0,0,1,1,0,0,2,acquired
+San Francisco,8,3,web,0,0,1,1,1,0,1.25,acquired
+San Mateo,7,1,advertising,0,0,0,1,0,0,2,acquired
+Lancaster,3,1,mobile,1,1,0,0,0,0,2,closed
+Seattle,3,3,travel,1,0,1,0,0,0,1,acquired
+San Jose,1,0,hardware,1,0,0,1,0,0,3.5,closed
+Thousand Oaks,10,1,hardware,1,0,1,0,0,0,2,acquired
+Provo,4,1,enterprise,0,1,0,0,0,0,1,closed
+Palo Alto,3,1,other,0,0,0,0,1,0,5,closed
+New York,12,2,software,0,1,0,0,0,0,6,acquired
+New York,1,1,games_video,0,1,0,0,0,0,1,closed
+Los Gatos,5,2,semiconductor,1,0,0,1,1,0,3.3333,acquired
+Columbus,2,1,ecommerce,0,1,0,0,0,0,1,closed
+Pasadena,6,1,health,0,1,1,0,0,0,2,acquired
+Portland,10,4,enterprise,0,0,1,1,0,0,4.5,acquired
+San Francisco,15,3,web,0,0,1,0,0,0,1,acquired
+Redmond,3,4,web,0,1,0,0,0,0,1,closed
+San Francisco,4,5,games_video,0,1,0,1,0,0,5.5,closed
+Foster City,5,1,software,0,0,1,1,1,0,2.6667,acquired
+San Francisco,23,3,advertising,0,1,1,1,0,0,2.6667,acquired
+New York,21,3,ecommerce,0,0,1,1,1,0,1.5,acquired
+Denver,35,3,web,1,0,1,1,0,0,2,acquired
+Cupertino,4,1,enterprise,0,0,1,1,0,0,2,acquired
+Sunnyvale,3,1,semiconductor,0,0,0,1,0,0,4,acquired
+Mountain View,6,2,web,1,0,0,0,0,0,8.5,acquired
+Arcadia,7,1,hardware,1,0,0,0,1,0,4.25,acquired
+San Mateo,6,0,web,0,0,1,0,0,0,1,closed
+Bellevue,3,2,network_hosting,0,0,1,0,0,0,1,acquired
+Redwood City,2,3,advertising,0,0,1,1,0,0,1.5,closed
+Brisbane,11,0,biotech,1,0,0,0,0,0,1,acquired
+New York,1,0,games_video,0,0,1,1,0,0,1,closed
+Sunnyvale,6,2,software,0,1,1,0,0,0,1,acquired
+Palo Alto,5,3,software,0,0,1,0,0,0,4,acquired
+Yorba Linda,9,0,manufacturing,0,0,1,0,0,0,1,closed
+Sunnyvale,11,1,software,1,0,0,0,0,0,4.5,acquired
+New York,5,1,mobile,1,1,0,0,0,0,2,acquired
+Campbell,5,1,semiconductor,1,0,1,0,0,0,3,acquired
+Palo Alto,18,5,transportation,0,0,1,1,1,0,2.6667,acquired
+San Carlos,13,3,analytics,0,1,1,1,1,0,4.5,acquired
+Los Angeles,5,2,games_video,0,1,0,1,0,0,2,closed
+Palo Alto,4,2,software,0,1,0,0,0,0,1,acquired
+San Francisco,4,3,web,0,0,1,0,0,0,7,acquired
+San Francisco,8,3,cleantech,0,0,1,0,0,0,1,acquired
+Seattle,6,2,enterprise,0,0,1,0,0,0,3,acquired
+Bellevue,9,3,mobile,0,0,1,1,1,1,1.4,acquired
+Acton,14,2,network_hosting,0,0,1,1,1,0,2.6667,acquired
+Dallas,10,3,network_hosting,1,0,0,0,0,0,1,acquired
+Palo Alto,10,2,games_video,0,1,1,0,0,0,2,acquired
+Newton,7,2,web,0,0,1,0,0,0,4,closed
+Tempe,0,0,semiconductor,0,0,0,1,0,0,7,closed
+Sunnyvale,6,1,medical,0,0,0,0,0,1,6,acquired
+Santa Clara,2,0,hardware,0,0,1,1,0,0,4,closed
+Toledo,1,1,ecommerce,0,1,0,0,0,0,1,closed
+Seattle,11,3,news,1,0,0,0,0,0,1,acquired
+Carlsbad,0,0,semiconductor,0,0,0,0,1,0,1,closed
+San Francisco,4,2,enterprise,0,1,0,0,0,0,3,acquired
+New York,5,1,enterprise,1,0,0,1,0,0,3,closed
+Fremont,14,2,cleantech,1,0,1,1,1,0,2.25,acquired
+Austin,4,4,messaging,0,1,1,0,0,0,4.75,acquired
+San Mateo,3,1,software,1,0,0,0,1,0,3,acquired
+Santa Clara,0,0,software,0,0,0,1,0,0,6,closed
+San Mateo,11,3,software,0,0,0,1,0,0,1,acquired
+San Mateo,2,1,software,1,0,0,0,0,0,3,closed
+San Mateo,15,1,analytics,0,0,1,0,0,0,1.5,acquired
+Torrance,5,4,public_relations,0,1,0,0,0,0,2,closed
+San Francisco,21,2,web,1,0,0,0,0,0,4,acquired
+Santa Monica,13,2,advertising,0,1,0,0,0,0,5,acquired
+Altamonte Springs,2,0,enterprise,0,1,0,0,0,0,1,closed
+Westport,2,2,web,0,1,0,0,0,0,2.5,closed
+Seattle,6,2,enterprise,0,1,0,0,0,0,5,acquired
+Palo Alto,8,3,web,0,0,1,1,0,0,1,acquired
+Seattle,2,3,network_hosting,0,0,0,1,0,0,1,acquired
+Providence,3,1,mobile,0,1,0,0,0,0,1,closed
+New York,16,3,enterprise,0,0,0,1,1,0,1.5,acquired
+Chelmsford,6,1,network_hosting,1,0,1,1,0,0,3,acquired
+San Francisco,23,2,news,0,1,1,0,0,0,4.5,acquired
+San Francisco,5,2,games_video,0,1,0,0,0,0,5,closed
+Boulder,4,2,enterprise,1,0,1,1,0,0,1.5,acquired
+Chicago,3,2,travel,1,1,0,0,0,0,1,acquired
+San Francisco,4,2,messaging,0,1,0,0,0,0,3,acquired
+Palo Alto,1,2,software,1,0,0,0,0,0,2,acquired
+New York,16,3,messaging,0,1,0,1,0,0,8.5,acquired
+San Francisco,7,2,advertising,0,1,0,0,0,0,3,closed
+Santa Clara,4,2,software,0,0,0,1,0,0,4,closed
+Austin,16,3,public_relations,0,0,0,0,1,1,5.5,acquired
+"El Segundo,",7,2,semiconductor,1,0,0,1,1,0,2.3333,acquired
+San Mateo,3,2,software,1,0,0,0,0,0,2,acquired
+Hampton,8,1,semiconductor,0,0,0,1,1,0,6,acquired
+Idaho Falls,5,4,mobile,0,0,1,0,0,0,1,closed
+San Diego,6,3,cleantech,1,0,1,0,0,0,2.6667,acquired
+San Francisco,5,1,cleantech,0,0,1,1,0,0,2.6667,acquired
+Mountain View,28,3,advertising,1,0,0,0,1,0,2.6667,acquired
+San Francisco,18,3,analytics,1,0,1,1,1,0,2.3333,acquired
+Burlington,2,1,public_relations,1,0,0,0,1,0,2.5,closed
+Menlo Park,11,4,analytics,1,0,1,1,0,0,2.6667,acquired
+Acton,4,1,mobile,1,0,0,1,1,1,2,acquired
+Mountain View,9,1,biotech,0,0,0,0,0,0,3,acquired
+Campbell,6,1,mobile,0,0,0,0,0,1,3,acquired
+Campbell,5,1,mobile,0,0,1,1,0,0,2.5,acquired
+New York,6,3,mobile,1,0,1,0,0,0,1,closed
+Cambridge,12,3,analytics,0,1,1,1,0,0,3.75,acquired
+San Jose,1,1,hardware,1,0,0,0,0,0,3,closed
+Palo Alto,5,3,web,0,1,0,0,0,0,2,acquired
+Scotts Valley,5,1,semiconductor,1,0,0,1,1,0,3,acquired
+La Jolla,9,1,mobile,1,0,1,1,1,0,4,acquired
+El Segundo,10,4,games_video,0,0,1,1,0,0,3,acquired
+San Francisco,3,3,mobile,0,1,0,0,0,0,6,acquired
+Addison,0,0,consulting,1,0,1,0,0,0,1,closed
+San Francisco,6,1,web,1,0,0,0,0,0,1,acquired
+McLean,14,4,web,0,0,1,1,1,0,2.3333,acquired
+Avon,0,0,other,0,0,1,0,0,0,1,closed
+Aliso Viejo,21,3,games_video,0,0,1,1,1,0,3.6667,acquired
+San Francisco,1,1,news,1,0,0,0,0,0,4,closed
+Portland,3,1,hardware,0,0,1,0,0,0,3,acquired
+Sunnyvale,9,3,software,0,0,1,1,1,1,3,acquired
+Palo Alto,3,1,software,1,0,0,0,0,0,1,acquired
+San Francisco,1,3,web,0,1,0,0,0,0,8,closed
+Little Rock,1,1,software,1,0,0,0,0,0,1,closed
+New York,15,3,web,0,0,1,0,0,0,8,acquired
+Cambridge,5,2,advertising,0,1,1,0,0,0,9,acquired
+Waltham,5,2,software,1,0,1,1,0,0,1.6667,acquired
+New York,6,1,games_video,0,1,0,0,0,0,2,acquired
+San Diego,17,1,software,1,0,1,1,0,0,2.25,acquired
+Lisle,4,2,software,1,0,1,1,1,0,5.3333,acquired
+New York,3,2,education,1,1,0,0,0,0,5,closed
+Boulder,14,4,advertising,0,0,1,1,1,0,3,acquired
+Palo Alto,6,2,web,1,0,0,0,0,0,1.5,closed
+Cupertino,24,3,software,0,0,1,1,1,0,6,acquired
+Santa Clara,1,0,semiconductor,0,0,0,0,1,0,7,acquired
+Houston,4,0,other,0,0,0,0,0,1,2,closed
+San Jose,3,1,public_relations,1,0,0,0,0,0,1,closed
+Santa Clara,4,0,semiconductor,0,0,0,0,1,1,4.6667,acquired
+San Mateo,17,3,social,1,0,1,1,1,0,2,acquired
+San Francisco,28,2,cleantech,0,0,1,1,1,0,7.5,acquired
+Mountain View,26,5,web,0,0,1,1,1,1,2.75,acquired
+New York,9,3,mobile,0,0,1,0,0,0,2,acquired
+South San Francisco,4,1,biotech,1,0,1,0,1,0,3,closed
+San Francisco,10,0,mobile,0,0,1,1,1,0,4,acquired
+Houston,3,1,web,0,0,1,0,0,0,1,closed
+New York,5,2,games_video,0,0,1,0,0,0,2,acquired
+Middleton,6,2,advertising,0,0,1,0,0,0,2,closed
+New York,16,3,advertising,1,0,1,1,0,0,2.3333,acquired
+Bothell,9,2,mobile,1,0,0,0,1,1,5.6,acquired
+San Francisco,9,2,advertising,0,0,1,0,0,0,6,acquired
+Burlington,1,1,security,1,0,0,1,0,0,2.6667,closed
+Sunnyvale,5,1,biotech,0,0,0,0,0,1,8,closed
+San Francisco,12,2,software,0,0,1,1,0,0,1,acquired
+Santa Clara,4,1,security,0,0,0,1,0,0,3,acquired
