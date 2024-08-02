@@ -15,6 +15,9 @@
 -b, --boot_strap: number of pieces to use to build one tree
 
 ### Usage examples with data that is in a dir:
+
 python main.py -f Employee.csv -y LeaveOrNot -l 1 -p 12 -b 5 --treeCount 10
+
 python main.py -f apple_quality.csv -y Quality -l good -p 21 -b 7 --treeCount 12
+
 python main.py -f startupdata.csv -y status -l closed -p 12 -b 5 --treeCount 7
