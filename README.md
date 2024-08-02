@@ -1,11 +1,17 @@
 ### The main.py file is a file to run the algorithm that displays its metrics.
 ---
 **Attention**: The program uses the following parameters when calling:
+
 -f, --table_name: table file name
+
 -y: column name that indicates the target attribute
+
 -l, --label: how the positive class is labeled in the target attribute
+
 --treeCount: number of trees used for Bagging
+
 -p, --portion_count: the number of pieces into which the training data will be divided
+
 -b, --boot_strap: number of pieces to use to build one tree
 
 ### Usage examples with data that is in a dir:
